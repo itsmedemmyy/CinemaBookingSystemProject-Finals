@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CinemaVariables", "CinemaVariables\CinemaVariables.csproj", "{7593A8C6-84DC-497B-A6F0-EA1BB28233EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CinemaDataLayer", "CinemaDataLayer\CinemaDataLayer.csproj", "{859FF158-C66C-46C7-B1B9-4652F22346E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CinemaAppLayer", "AppLayer\CinemaAppLayer.csproj", "{CFCCE187-2F62-4C8F-987B-FF24D9397554}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogInUILayer", "LogInUILayer\LogInUILayer.csproj", "{A8D77BAB-55E2-4E04-823D-6F96F7373CD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginAppLayer", "LoginAppLayer\LoginAppLayer.csproj", "{6B311467-73C5-4348-8EA3-2FE9E53D5340}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginDataLayer", "LoginDataLayer\LoginDataLayer.csproj", "{799C78CC-D433-40DB-8BF2-C9260419CD9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaBookingSystem1", "CinemaBookingSystem1\CinemaBookingSystem1.csproj", "{5413E949-A618-40B0-A182-1571DBB04C48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7593A8C6-84DC-497B-A6F0-EA1BB28233EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7593A8C6-84DC-497B-A6F0-EA1BB28233EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7593A8C6-84DC-497B-A6F0-EA1BB28233EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7593A8C6-84DC-497B-A6F0-EA1BB28233EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{859FF158-C66C-46C7-B1B9-4652F22346E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{859FF158-C66C-46C7-B1B9-4652F22346E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{859FF158-C66C-46C7-B1B9-4652F22346E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{859FF158-C66C-46C7-B1B9-4652F22346E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFCCE187-2F62-4C8F-987B-FF24D9397554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFCCE187-2F62-4C8F-987B-FF24D9397554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFCCE187-2F62-4C8F-987B-FF24D9397554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFCCE187-2F62-4C8F-987B-FF24D9397554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8D77BAB-55E2-4E04-823D-6F96F7373CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8D77BAB-55E2-4E04-823D-6F96F7373CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8D77BAB-55E2-4E04-823D-6F96F7373CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8D77BAB-55E2-4E04-823D-6F96F7373CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B311467-73C5-4348-8EA3-2FE9E53D5340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B311467-73C5-4348-8EA3-2FE9E53D5340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B311467-73C5-4348-8EA3-2FE9E53D5340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B311467-73C5-4348-8EA3-2FE9E53D5340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799C78CC-D433-40DB-8BF2-C9260419CD9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799C78CC-D433-40DB-8BF2-C9260419CD9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799C78CC-D433-40DB-8BF2-C9260419CD9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799C78CC-D433-40DB-8BF2-C9260419CD9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5413E949-A618-40B0-A182-1571DBB04C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5413E949-A618-40B0-A182-1571DBB04C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5413E949-A618-40B0-A182-1571DBB04C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5413E949-A618-40B0-A182-1571DBB04C48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F92DC1F2-1E44-4D6A-AEE1-BCC10064267C}
+	EndGlobalSection
+EndGlobal
