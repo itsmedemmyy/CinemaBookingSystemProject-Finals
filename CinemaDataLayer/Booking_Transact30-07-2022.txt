@@ -1,0 +1,2 @@
+Customer Number: DAygp9016    Customer: Mariden Maglinte    Movie: Minions: The Rise of Gru    Selected Time: 18:30    Ticket: 2   Transaction Date: 07/30/2022    Total Price(Php): 600
+Customer Number: NTylf4835    Customer: John Emmard Nava    Movie: Doctor Strange in the Multiverse of Madness    Selected Time: 19:00    Ticket: 1   Transaction Date: 07/30/2022    Total Price(Php): 357
